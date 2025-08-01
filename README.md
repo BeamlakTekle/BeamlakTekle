@@ -35,7 +35,7 @@ LinkedIn: linkedin.com/in/beamlak-tekle/
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: Outside of tech, I love walking, swimming, exploring new places, and listening to Ethiopian soul music.
+⚡ Fun fact: Outside of tech, I love walking, swimming, exploring new places, and listening to music.
 
  
 
