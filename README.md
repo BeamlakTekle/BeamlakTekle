@@ -41,9 +41,9 @@
 
 📫 How to Reach Me: 
 
-Email: bamitekle@gmail.com
+- Email: bamitekle@gmail.com
 
-LinkedIn: linkedin.com/in/beamlak-tekle/
+- LinkedIn: linkedin.com/in/beamlak-tekle/
 
 
 
