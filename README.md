@@ -51,7 +51,7 @@ LinkedIn: linkedin.com/in/beamlak-tekle/
 
 
 
-⚡ Fun fact: Outside of tech, I love walking, swimming, exploring new places, and listening to music.
+⚡ Fun fact: Outside of tech, I love walking, exploring new places, and listening to music.
 <!--
 **BeamlakTekle/BeamlakTekle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -87,7 +87,7 @@ LinkedIn: linkedin.com/in/beamlak-tekle/
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: Outside of tech, I love walking, swimming, exploring new places, and listening to music.
+⚡ Fun fact: Outside of tech, I love walking, exploring new places, and listening to music.
 
  
 
