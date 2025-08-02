@@ -11,7 +11,9 @@
 
 🛠 Tech Stack
 Languages: Python, C++
+
 Data & ML: Pandas, NumPy, scikit-learn, TensorFlow
+
 Web Dev: HTML, CSS, JavaScript, React, Flask
 Tools: Jupyter Notebooks, VSCode, Replit, Microsoft Excel, MySQL Workbench, Git/GitHub, Google Colab
 Databases: SQL, MySQL
