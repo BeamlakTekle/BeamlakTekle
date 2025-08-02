@@ -39,11 +39,17 @@ Tech Stack: HTML, CSS, JavaScript, React
 
 
 📫 How to Reach Me: 
+
 Email: bamitekle@gmail.com
+
 LinkedIn: linkedin.com/in/beamlak-tekle/
 
 
+
+
 😄 Pronouns: She/Her
+
+
 
 ⚡ Fun fact: Outside of tech, I love walking, swimming, exploring new places, and listening to music.
 <!--
