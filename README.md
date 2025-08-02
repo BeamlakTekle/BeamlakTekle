@@ -29,9 +29,14 @@ Databases: SQL, MySQL
 
 
 🚀 Projects
+
 1. Equalsphere – Gender Equality Advocacy Platform
+   
 Designed and developed a responsive web app guiding women in developing countries to educational, healthcare, and employment resources.
+
 Tech Stack: HTML, CSS, JavaScript, React
+
+
 
 
 📫 How to Reach Me: 
