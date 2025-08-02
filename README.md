@@ -9,13 +9,16 @@
 🤔 I’m actively seeking an internship where I can contribute to real-world projects, learn from experienced professionals, and grow in the fields of AI, ML, or software development. If you know of any opportunities, let me know!
 
 
+
 🛠 Tech Stack
 Languages: Python, C++
 
 Data & ML: Pandas, NumPy, scikit-learn, TensorFlow
 
 Web Dev: HTML, CSS, JavaScript, React, Flask
+
 Tools: Jupyter Notebooks, VSCode, Replit, Microsoft Excel, MySQL Workbench, Git/GitHub, Google Colab
+
 Databases: SQL, MySQL
 
 
