@@ -31,9 +31,9 @@ Databases: SQL, MySQL
 
 1. Equalsphere – Gender Equality Advocacy Platform
    
-Designed and developed a responsive web app guiding women in developing countries to educational, healthcare, and employment resources.
+- Designed and developed a responsive web app guiding women in developing countries to educational, healthcare, and employment resources.
 
-Tech Stack: HTML, CSS, JavaScript, React
+- Tech Stack: HTML, CSS, JavaScript, React
 
 
 
